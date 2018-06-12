@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V_MCU Pin=JMP2-1
+Removed Member From Class: ClassName=MCU Member=JMP2
+Added Pin To Net: NetName=5V_MCU Pin=J1-27
+Added Pin To Net: NetName=5V_MCU Pin=J1-28
+Added Pin To Net: NetName=CSB Pin=J1-52
+Added Pin To Net: NetName=CSB Pin=P4-6
+Added Pin To Net: NetName=ADC_I Pin=ADC-2
+Added Pin To Net: NetName=ADC_I Pin=J1-54
+Added Pin To Net: NetName=ADC_I Pin=P4-4
+Added Pin To Net: NetName=ADC_I Pin=U6-7
+Added Net: Name=ADC_I

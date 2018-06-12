@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=LED_CTRL Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-13
+Removed Pin From Net: NetName=GND Pin=P3-14
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=ADC_I Pin=P4-4
+Removed Pin From Net: NetName=CSB Pin=P4-6
+Removed Member From Class: ClassName=MCU Member=P3
+Removed Member From Class: ClassName=MCU Member=P4
+Added Member To Class: ClassName=Feedback Member=Component D2 LM4040DIM3-4_1

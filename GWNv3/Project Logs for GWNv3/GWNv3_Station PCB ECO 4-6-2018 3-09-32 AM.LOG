@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetJ5_1 Pin=J5-1A
+Removed Pin From Net: NetName=NetJ5_1 Pin=J5-1B
+Removed Pin From Net: NetName=GND Pin=J5-2A
+Removed Pin From Net: NetName=GND Pin=J5-2B
+Change Component Footprint: Designator=J5 Old Footprint=KLD-0202 New Footprint=PJ-007
+Change Component Comment : Designator=J5 Old Comment=PWR2.5 New Comment=PJ-007
+Change component parameters: Designator = "J5"; Footprint = "PJ-007"; UniqueID = "\MRROTTFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PJ-007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.36 USD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-007/CUI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BridgeRF Member=Component J12 5-1814400-1

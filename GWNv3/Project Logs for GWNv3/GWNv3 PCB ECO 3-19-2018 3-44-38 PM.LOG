@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=BridgeRF Member=C29
+Removed Member From Class: ClassName=BridgeRF Member=L2
+Added Member To Class: ClassName=Feedback Member=Component C8 Cap
+Added Member To Class: ClassName=RF Member=Component C29 30pF
+Added Member To Class: ClassName=BridgeRF Member=Component C30 10nF
+Added Member To Class: ClassName=Feedback Member=Component J5 PWR2.5
+Added Member To Class: ClassName=RF Member=Component J6 1909763-1
+Added Member To Class: ClassName=BridgeRF Member=Component J8 1909763-1
+Added Member To Class: ClassName=RF Member=Component J10 901-10512-1
+Added Member To Class: ClassName=BridgeRF Member=Component J12 901-10512-1
+Added Member To Class: ClassName=RF Member=Component L4 1.2nH
+Added Member To Class: ClassName=BridgeRF Member=Component L5 1.2nH
+Added Member To Class: ClassName=Feedback Member=Component U3 AP2204K-5.0TRG1

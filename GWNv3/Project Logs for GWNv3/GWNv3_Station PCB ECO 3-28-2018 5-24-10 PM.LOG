@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=NetC21_2 Pin=J10-1
+Removed Pin From Net: NetName=GND Pin=J10-G1-1
+Removed Pin From Net: NetName=GND Pin=J10-G1-2
+Removed Pin From Net: NetName=GND Pin=J10-G1
+Removed Pin From Net: NetName=GND Pin=J10-G2-1
+Removed Pin From Net: NetName=GND Pin=J10-G2-2
+Removed Pin From Net: NetName=GND Pin=J10-G2
+Removed Pin From Net: NetName=NetC27_1 Pin=J11-1
+Removed Pin From Net: NetName=GND Pin=J11-G1-1
+Removed Pin From Net: NetName=GND Pin=J11-G1-2
+Removed Pin From Net: NetName=GND Pin=J11-G1
+Removed Pin From Net: NetName=GND Pin=J11-G2-1
+Removed Pin From Net: NetName=GND Pin=J11-G2-2
+Removed Pin From Net: NetName=GND Pin=J11-G2
+Removed Pin From Net: NetName=GND Pin=J12-G1-1
+Removed Pin From Net: NetName=GND Pin=J12-G1-2
+Removed Pin From Net: NetName=GND Pin=J12-G1
+Removed Pin From Net: NetName=GND Pin=J12-G2-1
+Removed Pin From Net: NetName=GND Pin=J12-G2-2
+Removed Pin From Net: NetName=GND Pin=J12-G2
+Removed Pin From Net: NetName=NetJ9_1 Pin=J13-1
+Removed Pin From Net: NetName=GND Pin=J13-G1-1
+Removed Pin From Net: NetName=GND Pin=J13-G1-2
+Removed Pin From Net: NetName=GND Pin=J13-G1
+Removed Pin From Net: NetName=GND Pin=J13-G2-1
+Removed Pin From Net: NetName=GND Pin=J13-G2-2
+Removed Pin From Net: NetName=GND Pin=J13-G2
+Added Component: Designator=J10(CONN_5-1814400-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A97593-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5-1814400-1/A97593-ND/1755981?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://www.te.com/usa-en/product-5-1814400-1.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/5-1814400-1/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(CONN_5-1814400-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A97593-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5-1814400-1/A97593-ND/1755981?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://www.te.com/usa-en/product-5-1814400-1.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/5-1814400-1/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(CONN_5-1814400-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A97593-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5-1814400-1/A97593-ND/1755981?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://www.te.com/usa-en/product-5-1814400-1.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/5-1814400-1/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(CONN_5-1814400-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A97593-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/5-1814400-1/A97593-ND/1755981?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://www.te.com/usa-en/product-5-1814400-1.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/symbols-footprints/5-1814400-1/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Pin To Net: NetName=NetC21_2 Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=GND Pin=J11-4
+Added Pin To Net: NetName=NetC27_1 Pin=J11-5
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=GND Pin=J12-4
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=NetJ9_1 Pin=J13-5
+Added Pin To Net: NetName=NetJ12_5 Pin=J12-5
+Added Pin To Net: NetName=NetJ12_5 Pin=U11-2
+Added Net: Name=NetJ12_5

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=5V_IN Pin=R10-1
+Removed Member From Class: ClassName=Feedback Member=D3
+Removed Member From Class: ClassName=Feedback Member=R10
+Change Component Designator: OldDesignator=D3 NewDesignator=D2

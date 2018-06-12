@@ -1,0 +1,11 @@
+Added Component: Designator=U11(PQFN50P200X200X100_HS-9N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=NetJ12_5 Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=NetC30_2 Pin=U11-4
+Added Pin To Net: NetName=GND Pin=U11-5
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=NetC31_2 Pin=U11-7
+Added Pin To Net: NetName=GND Pin=U11-8
+Added Member To Class: ClassName=BridgeRF Member=Component U11 MAAL-011130

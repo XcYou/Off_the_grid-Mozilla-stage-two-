@@ -1,0 +1,90 @@
+Added Pin To Net: NetName=12V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V_MCU Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V_RF Pin=C8-2
+Added Pin To Net: NetName=12V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=VREF Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VREF Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=5V_RF Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=5V_RF Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=VREF Pin=D2-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1A
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1B
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2A
+Added Pin To Net: NetName=GND Pin=J5-2B
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3A
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3B
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=VREF Pin=R11-1
+Added Pin To Net: NetName=5V_RF Pin=R11-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R12-1
+Added Pin To Net: NetName=12V Pin=R12-2
+Added Pin To Net: NetName=NetC10_2 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=5V_RF Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetR14_2 Pin=R15-2
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=12V Pin=U2-3
+Added Pin To Net: NetName=5V_MCU Pin=U2-5
+Added Pin To Net: NetName=12V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=12V Pin=U3-3
+Added Pin To Net: NetName=5V_RF Pin=U3-5
+Added Pin To Net: NetName=NetC10_2 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=12V Pin=U4-3
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-4
+Added Pin To Net: NetName=12V Pin=U4-5
+Added Pin To Net: NetName=VREF Pin=U5-1
+Added Pin To Net: NetName=NetR14_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=CSB Pin=U5-6
+Added Pin To Net: NetName=ADC_V Pin=U5-7
+Added Pin To Net: NetName=SCLK Pin=U5-8
+Added Pin To Net: NetName=5V_RF Pin=U5-9
+Added Pin To Net: NetName=5V_RF Pin=U5-10
+Added Pin To Net: NetName=VREF Pin=U6-1
+Added Pin To Net: NetName=NetC10_2 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=SCLK Pin=U6-8
+Added Pin To Net: NetName=5V_RF Pin=U6-9
+Added Pin To Net: NetName=5V_RF Pin=U6-10
+Added Member To Class: ClassName=Feedback Member=Component C6 Cap
+Added Member To Class: ClassName=Feedback Member=Component C7 Cap
+Added Member To Class: ClassName=Feedback Member=Component C8 Cap
+Added Member To Class: ClassName=Feedback Member=Component C9 Cap
+Added Member To Class: ClassName=Feedback Member=Component C10 100nF
+Added Member To Class: ClassName=Feedback Member=Component C11 Cap
+Added Member To Class: ClassName=Feedback Member=Component C12 Cap
+Added Member To Class: ClassName=Feedback Member=Component C13 Cap
+Added Member To Class: ClassName=Feedback Member=Component C14 Cap
+Added Member To Class: ClassName=Feedback Member=Component D2 LM4040DIM3-4_1
+Added Member To Class: ClassName=Feedback Member=Component J5 PWR2.5
+Added Member To Class: ClassName=Feedback Member=Component R11 Res3
+Added Member To Class: ClassName=Feedback Member=Component R12 0.1
+Added Member To Class: ClassName=Feedback Member=Component R13 10k
+Added Member To Class: ClassName=Feedback Member=Component R14 15k
+Added Member To Class: ClassName=Feedback Member=Component R15 15k
+Added Member To Class: ClassName=Feedback Member=Component U2 AP2204K-5.0TRG1
+Added Member To Class: ClassName=Feedback Member=Component U3 AP2204K-5.0TRG1
+Added Member To Class: ClassName=Feedback Member=Component U5 ADC141S628QIMMX/NOPB
+Added Member To Class: ClassName=Feedback Member=Component U6 ADC141S628QIMMX/NOPB

@@ -1,0 +1,19 @@
+Added Component: Designator=U5(SOP50P490X110-11N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADC141S628QIMMX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MSOP-10 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "4.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREF Pin=U5-1
+Added Pin To Net: NetName=NetR14_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=CSB Pin=U5-6
+Added Pin To Net: NetName=ADC_V Pin=U5-7
+Added Pin To Net: NetName=SCLK Pin=U5-8
+Added Pin To Net: NetName=5V_RF Pin=U5-9
+Added Pin To Net: NetName=5V_RF Pin=U5-10
+Added Member To Class: ClassName=Feedback Member=Component U5 ADC141S628QIMMX/NOPB
